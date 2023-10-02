@@ -14,7 +14,7 @@ const Contactusform = () => {
                     </button>
                 </div> */}
                 <div className='hidden lg:block'>
-                   <Link   style={{ textDecoration: 'none', color:'black' }} href="/Jobs"> <button type="button" className='text-green-500   justify-end text-sm font-semibold bg-transparent py-4 px-6 lg:px-12 navbutton rounded-full hover:bg-navyblue hover:text-white'>
+                   <Link   style={{ textDecoration: 'none', color:'black' }} href="/Jobs"> <button type="button" className='text-green-500   justify-end text-sm font-semibold py-4 px-6 lg:px-12 navbutton rounded-full hover:bg-navyblue hover:text-white'>
                         Jobs
                     </button></Link>
                 </div>
