@@ -25,12 +25,12 @@ const Banner = () => {
       ]}
    
       repeat={Infinity}
-      style={{ display: 'inline-block' }}
+      style={{ display: 'inline-block', margin: "0 72px" }}
      
     />
                               
                         </h5>
-                        <p className="text-2xl font-bold py-2">Our mission is to
+                        <p className="text-2xl font-bold py-2 mx-24">Our mission is to
                         make quality tech education accessible to everyone, 
                                 regardless of their background or financial constraints.</p>
                     </div>
